@@ -6,8 +6,8 @@
   "icon": "ri:settings-3-line",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-core/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-core/releases/download/v0.2.0-alpha.12/plugin-core.zip",
-  "sha256": "93b42e378d65870d07c83726bc188d80adc23936bc60fbd3d08a7560bd511160"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-core/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-core/releases/download/v0.2.0-alpha.12/plugin-core.zip",
+  "sha256": "c1c74585bcfc3217b685e7e663e81d3b6e9f3a34ee0c152bd4fad289ada3ba84"
 }
